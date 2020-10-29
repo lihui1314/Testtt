@@ -21,6 +21,7 @@
     NSLog(@"dev2");
 
     NSLog(@"3");
+    NSLog(@"4");
 
     // Do any additional setup after loading the view.
 }
