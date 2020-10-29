@@ -22,6 +22,7 @@
 
     NSLog(@"3");
     NSLog(@"4");
+    NSLog(@"5");
 
     // Do any additional setup after loading the view.
 }
